@@ -1,2 +1,2 @@
-# thoughts-for-Clangen
+# Hello!
 First Time Coding &lt;3
